@@ -21,8 +21,7 @@
       "js": ["scripts/content.js"],
       "css": ["css/styles.css"],
       "matches": [
-        "https://chat.openai.com/chat",
-        "https://chat.openai.com/chat/*"
+        "https://chat.openai.com/*"
       ]
     }
   ]
